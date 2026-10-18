@@ -57,5 +57,5 @@ Europe saves work the same way and go in the same `45410083` folder.
 GPL-3.0. See `LICENSE`.
 
 ## Credits
-[TGP482](https://github.com/TGP482) for [BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
-[Claude](claude.ai) for making the docs and script
+- [TGP482](https://github.com/TGP482) for [BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
+- [Claude](claude.ai) for making the docs and script
