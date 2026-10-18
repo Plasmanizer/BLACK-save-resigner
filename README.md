@@ -1,4 +1,4 @@
-## Warning
+## AI Usage Warning
 It is made and written with Claude. Intended for personal use, it comes with no warranty or support. Back up your saves first before using this script.
 
 Also, the rest of the documentation below are **Sorta** AI Generated. So keep that in mind, and i only tested it on my Arch Linux system. I'll revise the documentation by hand later.
