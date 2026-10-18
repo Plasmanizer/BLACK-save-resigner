@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """blackresign.py - re-sign Black (Xbox) save profiles so they load in BLACK-XBERecomp.
 
-Only re-signs. It does not rename profiles or fix profile checksums; use the C++ programs for that.
+Only re-signs the save file.
 
 The last 20 bytes of a 6144 byte `Profile` file are
     HMAC-SHA1(HDKey, HMAC-SHA1(SigKey, first 6124 bytes))
 and the port uses 16 zero bytes for both keys.
 
-Usage:
+Options:
     python3 blackresign.py Profile                 writes Profile.resigned
     python3 blackresign.py Profile out_file        writes out_file
     python3 blackresign.py save_folder             copies the folder to save_folder_resigned and re-signs every Profile
