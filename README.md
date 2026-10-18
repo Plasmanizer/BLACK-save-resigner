@@ -58,4 +58,4 @@ GPL-3.0. See `LICENSE`.
 
 ## Credits
 - [TGP482](https://github.com/TGP482) for [BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
-- [Claude](claude.ai) for making the docs and script
+- [Claude](https://claude.ai) for making the docs and script
